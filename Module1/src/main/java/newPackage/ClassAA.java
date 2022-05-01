@@ -6,6 +6,7 @@ public class ClassAA {
 	
 		System.out.println("this is java");
 
+		System.out.println("git module");
 	}
 
 }
